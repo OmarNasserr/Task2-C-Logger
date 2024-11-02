@@ -8,7 +8,7 @@ This repository contains a multi-threaded logging utility implemented in C++. Th
 
 - **Thread-safe Logging**: Ensures that logs from different threads do not interfere with each other.
 - **File Handling**: Appends log messages to a specified log file.
-- **Automatic Resource Management**: Uses RAII principles to manage file resources and mutex locks.
+- **Automatic Resource Management**: Manage file resources and mutex locks.
 
 ## Getting Started
 
